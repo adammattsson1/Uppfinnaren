@@ -1,1 +1,24 @@
-<h1>saker</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css">
+    <script src="~/js/site.js" defer></script>
+    <title>Products</title>
+</head>
+<body class="products-root">
+
+    @model IEnumerable<Product>
+
+    @foreach(var product in Model)
+    {
+        <div class="product">
+            <strong class="product-name">@product.Name</strong>
+            <p class="product-desc">@product.Description</p>
+            <strong class="product-price">@product.Price kr</strong> 
+        </div>
+    }
+    
+</body>
+</html>

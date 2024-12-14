@@ -15,6 +15,6 @@ public class ProductsController : Controller
 
     public IActionResult Index()
     {
-        return View(_productRepository.Products);
+        return View(_productRepository.ProductList);
     }
 }
