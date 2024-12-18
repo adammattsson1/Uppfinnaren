@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Uppfinnaren.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Uppfinnaren.yvz34s5tk9.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Kod\\Uppfinnaren\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "c:\\Kod\\Uppfinnaren\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Kod\\Uppfinnaren\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Uppfinnaren.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Uppfinnaren.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Uppfinnaren.props",
+      "PackagePath": "build\\Uppfinnaren.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Uppfinnaren.props",
+      "PackagePath": "buildMultiTargeting\\Uppfinnaren.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Uppfinnaren.props",
+      "PackagePath": "buildTransitive\\Uppfinnaren.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

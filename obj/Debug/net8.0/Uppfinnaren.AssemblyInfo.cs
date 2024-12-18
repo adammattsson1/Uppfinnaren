@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uppfinnaren")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c08f3b36e53a5bdb07afdc4386d327f50736fa2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef528b02a681b6e95b32726a281e2d7fa5afdf67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uppfinnaren")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uppfinnaren")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

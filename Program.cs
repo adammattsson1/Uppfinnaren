@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using Uppfinnaren.Models;
 
 internal class Program
@@ -9,6 +10,12 @@ internal class Program
         // Add services to the container.
         builder.Services.AddControllersWithViews();
         builder.Services.AddScoped<IProductRepository, MockProductRepository>();
+
+        builder.Services.AddDbContext<AppDbContext>(options => 
+        {
+            options.UseMySql(builder.Configuration.GetConnectionString("AppDbContextConnection"),
+            ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("AppDbContextConnection")));
+        });
 
         var app = builder.Build();
 

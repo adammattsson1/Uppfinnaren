@@ -1,0 +1,2742 @@
+{
+  "Version": 1,
+  "Hash": "JD7b6jvE1004FEDx2lqrWOeqb1XmXYHw51rxR2wDkiU=",
+  "Source": "Uppfinnaren",
+  "BasePath": "_content/Uppfinnaren",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Uppfinnaren\\wwwroot",
+      "Source": "Uppfinnaren",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\wwwroot\\",
+      "BasePath": "_content/Uppfinnaren",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\ak3alxn4l2-xtxxf3hu2r.gz",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "js/site#[.{fingerprint=xtxxf3hu2r}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Kod\\Uppfinnaren\\wwwroot\\js\\site.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rl5dcbfpcw",
+      "Integrity": "Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Kod\\Uppfinnaren\\wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\k7bo81qw9f-356vix0kms.gz",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint=356vix0kms}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2yhmugv22u",
+      "Integrity": "WpL0kbwDHONKwUu+fAC6nKQXtZOBY20Gsspcn336Iz4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\lfwyf51bo0-47otxtyo56.gz",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint=47otxtyo56}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7mrxpazhmu",
+      "Integrity": "8WSd7G1SSJrTChp1H0sIwU3oPQXDsKXVF1KkXEF6LuI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\qskn2xsrpo-3s2meaka4v.gz",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "css/site#[.{fingerprint=3s2meaka4v}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Kod\\Uppfinnaren\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xm954ikk6y",
+      "Integrity": "9/Nt5AogBKTgBK/oZmuMBl186NnK1+2hgJolZab+SCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Kod\\Uppfinnaren\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\s6iwks1gw5-yvz34s5tk9.gz",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "Uppfinnaren#[.{fingerprint=yvz34s5tk9}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Uppfinnaren.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "10gtwft2nx",
+      "Integrity": "v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Uppfinnaren.bundle.scp.css"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\t8eto7efwm-yvz34s5tk9.gz",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "Uppfinnaren#[.{fingerprint=yvz34s5tk9}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Uppfinnaren.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "10gtwft2nx",
+      "Integrity": "v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Uppfinnaren.styles.css"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\vfo1bg836j-61n19gt1b8.gz",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Kod\\Uppfinnaren\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "nezsohjtde",
+      "Integrity": "wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Kod\\Uppfinnaren\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\zebwmp9ibg-4v8eqarkd7.gz",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint=4v8eqarkd7}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kw5m9o3hck",
+      "Integrity": "ZECRGyeVrglmY0fxP9wVujqjjSoecu3G7roYlvaINus=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Uppfinnaren.styles.css",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "Uppfinnaren#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "yvz34s5tk9",
+      "Integrity": "kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Uppfinnaren.styles.css"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Uppfinnaren.bundle.scp.css",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "Uppfinnaren#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "yvz34s5tk9",
+      "Integrity": "kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Uppfinnaren.bundle.scp.css"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\wwwroot\\css\\site.css",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\wwwroot\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3s2meaka4v",
+      "Integrity": "k63sCfILa+1rNNLqDcXQwYeLUmVxA6ksaT5t748yiBY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\wwwroot\\favicon.ico",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\wwwroot\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\wwwroot\\js\\site.js",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\wwwroot\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xtxxf3hu2r",
+      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\wwwroot\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "47otxtyo56",
+      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\wwwroot\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4v8eqarkd7",
+      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Uppfinnaren",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Kod\\Uppfinnaren\\wwwroot\\",
+      "BasePath": "_content/Uppfinnaren",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "356vix0kms",
+      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.3s2meaka4v.css",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\qskn2xsrpo-3s2meaka4v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006493506494"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/Nt5AogBKTgBK/oZmuMBl186NnK1+2hgJolZab+SCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 17:45:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"k63sCfILa+1rNNLqDcXQwYeLUmVxA6ksaT5t748yiBY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3s2meaka4v"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k63sCfILa+1rNNLqDcXQwYeLUmVxA6ksaT5t748yiBY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.3s2meaka4v.css",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k63sCfILa+1rNNLqDcXQwYeLUmVxA6ksaT5t748yiBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 17:45:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3s2meaka4v"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k63sCfILa+1rNNLqDcXQwYeLUmVxA6ksaT5t748yiBY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.3s2meaka4v.css.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\qskn2xsrpo-3s2meaka4v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/Nt5AogBKTgBK/oZmuMBl186NnK1+2hgJolZab+SCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 17:45:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3s2meaka4v"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9/Nt5AogBKTgBK/oZmuMBl186NnK1+2hgJolZab+SCA="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\qskn2xsrpo-3s2meaka4v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006493506494"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/Nt5AogBKTgBK/oZmuMBl186NnK1+2hgJolZab+SCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 17:45:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"k63sCfILa+1rNNLqDcXQwYeLUmVxA6ksaT5t748yiBY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k63sCfILa+1rNNLqDcXQwYeLUmVxA6ksaT5t748yiBY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k63sCfILa+1rNNLqDcXQwYeLUmVxA6ksaT5t748yiBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 17:45:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k63sCfILa+1rNNLqDcXQwYeLUmVxA6ksaT5t748yiBY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\qskn2xsrpo-3s2meaka4v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/Nt5AogBKTgBK/oZmuMBl186NnK1+2hgJolZab+SCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 17:45:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9/Nt5AogBKTgBK/oZmuMBl186NnK1+2hgJolZab+SCA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\vfo1bg836j-61n19gt1b8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000405022276"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\vfo1bg836j-61n19gt1b8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\vfo1bg836j-61n19gt1b8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000405022276"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\vfo1bg836j-61n19gt1b8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\ak3alxn4l2-xtxxf3hu2r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005263157895"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "189"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\ak3alxn4l2-xtxxf3hu2r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.xtxxf3hu2r.js",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\ak3alxn4l2-xtxxf3hu2r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005263157895"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "189"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtxxf3hu2r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.xtxxf3hu2r.js",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtxxf3hu2r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.xtxxf3hu2r.js.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\ak3alxn4l2-xtxxf3hu2r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtxxf3hu2r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\lfwyf51bo0-47otxtyo56.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000214961307"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4651"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8WSd7G1SSJrTChp1H0sIwU3oPQXDsKXVF1KkXEF6LuI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47otxtyo56"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47otxtyo56"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\lfwyf51bo0-47otxtyo56.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8WSd7G1SSJrTChp1H0sIwU3oPQXDsKXVF1KkXEF6LuI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47otxtyo56"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8WSd7G1SSJrTChp1H0sIwU3oPQXDsKXVF1KkXEF6LuI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\lfwyf51bo0-47otxtyo56.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000214961307"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4651"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8WSd7G1SSJrTChp1H0sIwU3oPQXDsKXVF1KkXEF6LuI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\lfwyf51bo0-47otxtyo56.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8WSd7G1SSJrTChp1H0sIwU3oPQXDsKXVF1KkXEF6LuI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8WSd7G1SSJrTChp1H0sIwU3oPQXDsKXVF1KkXEF6LuI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\zebwmp9ibg-4v8eqarkd7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000452898551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2207"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZECRGyeVrglmY0fxP9wVujqjjSoecu3G7roYlvaINus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v8eqarkd7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v8eqarkd7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\zebwmp9ibg-4v8eqarkd7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZECRGyeVrglmY0fxP9wVujqjjSoecu3G7roYlvaINus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v8eqarkd7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZECRGyeVrglmY0fxP9wVujqjjSoecu3G7roYlvaINus="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\zebwmp9ibg-4v8eqarkd7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000452898551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2207"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZECRGyeVrglmY0fxP9wVujqjjSoecu3G7roYlvaINus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\zebwmp9ibg-4v8eqarkd7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZECRGyeVrglmY0fxP9wVujqjjSoecu3G7roYlvaINus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZECRGyeVrglmY0fxP9wVujqjjSoecu3G7roYlvaINus="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\k7bo81qw9f-356vix0kms.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001438848921"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WpL0kbwDHONKwUu+fAC6nKQXtZOBY20Gsspcn336Iz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "356vix0kms"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "356vix0kms"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\k7bo81qw9f-356vix0kms.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WpL0kbwDHONKwUu+fAC6nKQXtZOBY20Gsspcn336Iz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "356vix0kms"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WpL0kbwDHONKwUu+fAC6nKQXtZOBY20Gsspcn336Iz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\k7bo81qw9f-356vix0kms.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001438848921"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WpL0kbwDHONKwUu+fAC6nKQXtZOBY20Gsspcn336Iz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\k7bo81qw9f-356vix0kms.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WpL0kbwDHONKwUu+fAC6nKQXtZOBY20Gsspcn336Iz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 15:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WpL0kbwDHONKwUu+fAC6nKQXtZOBY20Gsspcn336Iz4="
+        }
+      ]
+    },
+    {
+      "Route": "Uppfinnaren.bundle.scp.css",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\s6iwks1gw5-yvz34s5tk9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001851851852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 12:43:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A="
+        }
+      ]
+    },
+    {
+      "Route": "Uppfinnaren.bundle.scp.css",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Uppfinnaren.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 12:43:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A="
+        }
+      ]
+    },
+    {
+      "Route": "Uppfinnaren.bundle.scp.css.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\s6iwks1gw5-yvz34s5tk9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 12:43:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM="
+        }
+      ]
+    },
+    {
+      "Route": "Uppfinnaren.styles.css",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\t8eto7efwm-yvz34s5tk9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001851851852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 12:43:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A="
+        }
+      ]
+    },
+    {
+      "Route": "Uppfinnaren.styles.css",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Uppfinnaren.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 12:43:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A="
+        }
+      ]
+    },
+    {
+      "Route": "Uppfinnaren.styles.css.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\t8eto7efwm-yvz34s5tk9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 12:43:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM="
+        }
+      ]
+    },
+    {
+      "Route": "Uppfinnaren.yvz34s5tk9.bundle.scp.css",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\s6iwks1gw5-yvz34s5tk9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001851851852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 12:43:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvz34s5tk9"
+        },
+        {
+          "Name": "label",
+          "Value": "Uppfinnaren.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A="
+        }
+      ]
+    },
+    {
+      "Route": "Uppfinnaren.yvz34s5tk9.bundle.scp.css",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Uppfinnaren.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 12:43:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvz34s5tk9"
+        },
+        {
+          "Name": "label",
+          "Value": "Uppfinnaren.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A="
+        }
+      ]
+    },
+    {
+      "Route": "Uppfinnaren.yvz34s5tk9.bundle.scp.css.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\s6iwks1gw5-yvz34s5tk9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 12:43:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvz34s5tk9"
+        },
+        {
+          "Name": "label",
+          "Value": "Uppfinnaren.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM="
+        }
+      ]
+    },
+    {
+      "Route": "Uppfinnaren.yvz34s5tk9.styles.css",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\t8eto7efwm-yvz34s5tk9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001851851852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 12:43:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvz34s5tk9"
+        },
+        {
+          "Name": "label",
+          "Value": "Uppfinnaren.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A="
+        }
+      ]
+    },
+    {
+      "Route": "Uppfinnaren.yvz34s5tk9.styles.css",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Uppfinnaren.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 12:43:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvz34s5tk9"
+        },
+        {
+          "Name": "label",
+          "Value": "Uppfinnaren.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kiMcbExQ522W4bsp7cLsqEII4DJnAX1AMCGsCKiOf1A="
+        }
+      ]
+    },
+    {
+      "Route": "Uppfinnaren.yvz34s5tk9.styles.css.gz",
+      "AssetFile": "c:\\Kod\\Uppfinnaren\\obj\\Debug\\net9.0\\compressed\\t8eto7efwm-yvz34s5tk9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 12:43:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvz34s5tk9"
+        },
+        {
+          "Name": "label",
+          "Value": "Uppfinnaren.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v/2aEUyv+7+QdCvPOBYWWZfC9C4PsAkTuIe4JcElvgM="
+        }
+      ]
+    }
+  ]
+}
