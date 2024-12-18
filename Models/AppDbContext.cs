@@ -10,7 +10,7 @@ public class AppDbContext : DbContext
 
     }
 
-    public DbSet<Product> Products {get; set;}
+    public DbSet<Product> ProductList {get; set;}
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
