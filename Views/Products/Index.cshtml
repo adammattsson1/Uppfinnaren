@@ -7,18 +7,15 @@
     <script src="~/js/site.js" defer></script>
     <title>Products</title>
 </head>
-<body class="products-root">
+<body id="products-root">
 
-    @model IEnumerable<Product>
+    <h1>Produkter</h1>
 
-    @foreach(var product in Model)
-    {
-        <div class="product">
-            <strong class="product-name">@product.Name</strong>
-            <p class="product-desc">@product.Description</p>
-            <strong class="product-price">@product.Price kr</strong> 
-        </div>
-    }
-    
+    <a href="/products/category1" class="category">Kategori 1</a>
+    <a href="/products/category2" class="category">Kategori 2</a>
+    <a href="/products/category3" class="category">Kategori 3</a>
+    <a href="/products/category4" class="category">Kategori 4</a>
+    <a href="/products/category5" class="category">Kategori 5</a>
+
 </body>
 </html>

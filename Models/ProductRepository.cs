@@ -8,7 +8,7 @@ public class ProductRepository : IProductRepository
 
     public ProductRepository(AppDbContext appDbContext)
     {
-        this._appDbContext = appDbContext;
+        _appDbContext = appDbContext;
     }
 
     public IEnumerable<Product> ProductList 
@@ -18,6 +18,16 @@ public class ProductRepository : IProductRepository
             return _appDbContext.ProductList;
         }
     }
+
+    public IEnumerable<Product> Category1 => throw new NotImplementedException();
+
+    public IEnumerable<Product> Category2 => throw new NotImplementedException();
+
+    public IEnumerable<Product> Category3 => throw new NotImplementedException();
+
+    public IEnumerable<Product> Category4 => throw new NotImplementedException();
+
+    public IEnumerable<Product> Category5 => throw new NotImplementedException();
 
     public Product? GetProductById(int id)
     {

@@ -17,4 +17,24 @@ public class ProductsController : Controller
     {
         return View(_productRepository.ProductList);
     }
+    public IActionResult Category1()
+    {
+        return View();
+    }
+    public IActionResult Category2()
+    {
+        return View();
+    }
+    public IActionResult Category3()
+    {
+        return View();
+    }
+    public IActionResult Category4()
+    {
+        return View();
+    }
+    public IActionResult Category5()
+    {
+        return View();
+    }
 }
