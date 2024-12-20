@@ -11,8 +11,8 @@ using Uppfinnaren.Models;
 namespace Uppfinnaren.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241218134457_Init")]
-    partial class Init
+    [Migration("20241220105538_asd")]
+    partial class asd
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -24,6 +24,45 @@ namespace Uppfinnaren.Migrations
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
 
+            modelBuilder.Entity("Uppfinnaren.Models.Category", b =>
+                {
+                    b.Property<int>("CategoryId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("CategoryId"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.HasKey("CategoryId");
+
+                    b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            CategoryId = 1,
+                            Name = "Kategori1"
+                        },
+                        new
+                        {
+                            CategoryId = 2,
+                            Name = "Kategori2"
+                        },
+                        new
+                        {
+                            CategoryId = 3,
+                            Name = "Kategori3"
+                        },
+                        new
+                        {
+                            CategoryId = 4,
+                            Name = "Kategori4"
+                        });
+                });
+
             modelBuilder.Entity("Uppfinnaren.Models.Product", b =>
                 {
                     b.Property<int>("ProductId")
@@ -31,6 +70,9 @@ namespace Uppfinnaren.Migrations
                         .HasColumnType("int");
 
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("ProductId"));
+
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
 
                     b.Property<string>("Description")
                         .IsRequired()
@@ -51,6 +93,7 @@ namespace Uppfinnaren.Migrations
                         new
                         {
                             ProductId = 1,
+                            CategoryId = 1,
                             Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                             Name = "name",
                             Price = 100
@@ -58,6 +101,7 @@ namespace Uppfinnaren.Migrations
                         new
                         {
                             ProductId = 2,
+                            CategoryId = 2,
                             Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                             Name = "name2",
                             Price = 101
@@ -65,9 +109,18 @@ namespace Uppfinnaren.Migrations
                         new
                         {
                             ProductId = 3,
+                            CategoryId = 3,
                             Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                             Name = "name3",
                             Price = 102
+                        },
+                        new
+                        {
+                            ProductId = 4,
+                            CategoryId = 4,
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                            Name = "name4",
+                            Price = 103
                         });
                 });
 #pragma warning restore 612, 618

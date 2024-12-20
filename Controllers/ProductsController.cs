@@ -7,33 +7,19 @@ namespace Uppfinnaren.Controllers;
 public class ProductsController : Controller
 {
     private readonly IProductRepository _productRepository;
+    private readonly ICategoryRepository _categoryRepository;
 
-    public ProductsController(IProductRepository productRepository)
+    public ProductsController(IProductRepository productRepository, ICategoryRepository categoryRepository)
     {
         _productRepository = productRepository;
+        _categoryRepository = categoryRepository;
     }
 
     public IActionResult Index()
     {
-        return View(_productRepository.ProductList);
+        return View(_categoryRepository.AllCategories);
     }
-    public IActionResult Category1()
-    {
-        return View();
-    }
-    public IActionResult Category2()
-    {
-        return View();
-    }
-    public IActionResult Category3()
-    {
-        return View();
-    }
-    public IActionResult Category4()
-    {
-        return View();
-    }
-    public IActionResult Category5()
+    public IActionResult Category()
     {
         return View();
     }

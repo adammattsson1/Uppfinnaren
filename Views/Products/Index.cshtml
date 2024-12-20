@@ -9,13 +9,17 @@
 </head>
 <body id="products-root">
 
-    <h1>Produkter</h1>
+    @model IEnumerable<Category>
 
-    <a href="/products/category1" class="category">Kategori 1</a>
-    <a href="/products/category2" class="category">Kategori 2</a>
-    <a href="/products/category3" class="category">Kategori 3</a>
-    <a href="/products/category4" class="category">Kategori 4</a>
-    <a href="/products/category5" class="category">Kategori 5</a>
+    <h1>Produkter</h1>
+    
+    <ul>
+    @foreach (Category category in Model)
+    {
+        <li><a href="/products/category/@category.CategoryId">@category.Name</a></li>
+    }
+    </ul>
+    
 
 </body>
 </html>

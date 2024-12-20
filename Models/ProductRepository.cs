@@ -11,26 +11,8 @@ public class ProductRepository : IProductRepository
         _appDbContext = appDbContext;
     }
 
-    public IEnumerable<Product> ProductList 
+    public IEnumerable<Product> GetProductsFromCategory(int id)
     {
-        get
-        {
-            return _appDbContext.ProductList;
-        }
-    }
-
-    public IEnumerable<Product> Category1 => throw new NotImplementedException();
-
-    public IEnumerable<Product> Category2 => throw new NotImplementedException();
-
-    public IEnumerable<Product> Category3 => throw new NotImplementedException();
-
-    public IEnumerable<Product> Category4 => throw new NotImplementedException();
-
-    public IEnumerable<Product> Category5 => throw new NotImplementedException();
-
-    public Product? GetProductById(int id)
-    {
-        return _appDbContext.ProductList.FirstOrDefault(p => p.ProductId == id);
+        return _appDbContext.Products.Where(p => p.CategoryId == id);
     }
 }

@@ -10,8 +10,8 @@ internal class Program
         // Add services to the container.
         builder.Services.AddControllersWithViews();
 
-        builder.Services.AddScoped<IProductRepository, MockProductRepository>();
         builder.Services.AddScoped<IProductRepository, ProductRepository>();
+        builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
         builder.Services.AddDbContext<AppDbContext>(options => 
         {
