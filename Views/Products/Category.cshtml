@@ -1,2 +1,15 @@
-category <br>
-<a href="/products/index">tillbaka</a>
+@{
+    Category category = ViewBag.category;
+}
+
+@model IEnumerable<Product>;
+
+<h1>@category.Name</h1>
+<ul>
+    @foreach(Product product in Model)
+    {
+        <li> <b>@product.Name.</b> @product.Description <b>@product.Price kr</b> </li>
+    }
+</ul>
+
+<p><a href="/products/index">tillbaka</a></p>

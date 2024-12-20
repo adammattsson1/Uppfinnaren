@@ -19,8 +19,9 @@ public class ProductsController : Controller
     {
         return View(_categoryRepository.AllCategories);
     }
-    public IActionResult Category()
+    public IActionResult Category(int id)
     {
-        return View();
+        ViewBag.category = _categoryRepository.GetCategoryById(id);
+        return View(_productRepository.GetProductsFromCategory(id));
     }
 }
