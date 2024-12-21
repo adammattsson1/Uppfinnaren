@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2pCqxck/Dw=",
+  "dgSpecHash": "V2erwP+aS5A=",
   "success": true,
-  "projectFilePath": "C:\\Kod\\Uppfinnaren\\Uppfinnaren.csproj",
+  "projectFilePath": "c:\\Kod\\Uppfinnaren\\Uppfinnaren.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\woode\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\woode\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

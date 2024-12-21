@@ -43,11 +43,11 @@ public class ProductsController : Controller
         var category = _categoryRepository.AllCategories.FirstOrDefault(c => c.CategoryId == categoryid);
         if(category != null)
         {
-            TempData["AdditionMessage"] = $"Produkten {name} har skapats i kategorin {category.Name}.";
+            TempData["SuccessfulAdditionMessage"] = $"Produkten {name} har skapats i kategorin {category.Name}.";
         }
         else
         {
-            TempData["AdditionMessage"] = null;
+            TempData["SuccessfulAdditionMessage"] = null;
         }
 
         return RedirectToAction("NewProductForm");
