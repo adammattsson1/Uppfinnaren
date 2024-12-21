@@ -19,9 +19,27 @@ public class ProductsController : Controller
     {
         return View(_categoryRepository.AllCategories);
     }
+
     public IActionResult Category(int id)
     {
         ViewBag.category = _categoryRepository.GetCategoryById(id);
         return View(_productRepository.GetProductsFromCategory(id));
+    }
+
+    public IActionResult NewProductForm()
+    {
+        return View(_categoryRepository.AllCategories);
+    }
+
+    [HttpPost]
+    public IActionResult SaveNewProduct(string name, string description, int price, int categoryid)
+    {
+        System.Console.WriteLine("saved new product: " + name + ", " + description + ", " + price + ", " + categoryid);
+
+        var newProduct = new Product{ Name = name, Description = description, Price = price, CategoryId = categoryid };
+        
+        _productRepository.SaveNewProduct(newProduct);
+
+        return RedirectToAction("NewProductForm");
     }
 }
