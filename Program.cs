@@ -15,8 +15,7 @@ internal class Program
 
         builder.Services.AddDbContext<AppDbContext>(options => 
         {
-            options.UseMySql(builder.Configuration.GetConnectionString("AppDbContextConnection"),
-            ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("AppDbContextConnection")));
+            options.UseInMemoryDatabase("Uppfinnaren");
         });
 
         var app = builder.Build();
