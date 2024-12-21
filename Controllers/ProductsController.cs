@@ -34,11 +34,21 @@ public class ProductsController : Controller
     [HttpPost]
     public IActionResult SaveNewProduct(string name, string description, int price, int categoryid)
     {
-        System.Console.WriteLine("saved new product: " + name + ", " + description + ", " + price + ", " + categoryid);
+        System.Console.WriteLine($"saved new product: {name}, {description}, {price}, {categoryid}");
 
         var newProduct = new Product{ Name = name, Description = description, Price = price, CategoryId = categoryid };
         
         _productRepository.SaveNewProduct(newProduct);
+
+        var category = _categoryRepository.AllCategories.FirstOrDefault(c => c.CategoryId == categoryid);
+        if(category != null)
+        {
+            TempData["AdditionMessage"] = $"Produkten {name} har skapats i kategorin {category.Name}.";
+        }
+        else
+        {
+            TempData["AdditionMessage"] = null;
+        }
 
         return RedirectToAction("NewProductForm");
     }

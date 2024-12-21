@@ -31,4 +31,9 @@
         <button type="submit">Spara</button>
     </div>
 
+    @if (TempData["AdditionMessage"] != null)
+    {
+        @TempData["AdditionMessage"];
+    }
+
 </form>
