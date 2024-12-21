@@ -4,9 +4,8 @@ namespace Uppfinnaren.Models;
 
 public interface IProductRepository
 {
+    IEnumerable<Product> AllProducts {get;}
     IEnumerable<Product> GetProductsFromCategory(int id);
     Product? SaveNewProduct(Product newProduct);
-    Product? UpdateName(string updatedName, int id);
-    Product? UpdateDescription(string updatedDescription, int id);
-    Product? UpdatePrice(int updatedPrice, int id);
+    Product? UpdateProduct(string name, string description, int price, int productId);
 }

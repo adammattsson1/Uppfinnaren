@@ -10,6 +10,14 @@ public class ProductRepository : IProductRepository
     {
         _appDbContext = appDbContext;
     }
+    
+    public IEnumerable<Product> AllProducts
+    {
+        get
+        {
+            return _appDbContext.Products;
+        }
+    }
 
     public IEnumerable<Product> GetProductsFromCategory(int id)
     {
@@ -24,37 +32,21 @@ public class ProductRepository : IProductRepository
         return newProduct;
     }
 
-
-
-
-
-
-
-
-
-
-    public Product? UpdateDescription(string updatedDescription, int id)
+    public Product? UpdateProduct(string name, string description, int price, int productId)
     {
-        var product = _appDbContext.Products.FirstOrDefault(i => i.ProductId == id);
+        var product = _appDbContext.Products.FirstOrDefault(i => i.ProductId == productId);
 
         if (product == null)
         {
             return null;
         }
-
-        product.Description = updatedDescription;
+        
+        product.Name = name;
+        product.Description = description;
+        product.Price = price;
+        
         _appDbContext.SaveChanges();
 
         return product;
-    }
-
-    public Product? UpdateName(string updatedName, int id)
-    {
-        throw new NotImplementedException();
-    }
-
-    public Product? UpdatePrice(int updatedPrice, int id)
-    {
-        throw new NotImplementedException();
     }
 }

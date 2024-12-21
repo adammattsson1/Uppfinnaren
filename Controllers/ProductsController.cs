@@ -52,4 +52,20 @@ public class ProductsController : Controller
 
         return RedirectToAction("NewProductForm");
     }
+
+    public IActionResult UpdateProductForm()
+    {
+        ViewBag.products = _productRepository.AllProducts;
+        return View(_categoryRepository.AllCategories);
+    }
+    
+    [HttpPost]
+    public IActionResult SaveUpdatedProduct(string name, string description, int price, int productId)
+    {
+        System.Console.WriteLine($"{name}, {description}, {price}, {productId}");
+    
+        _productRepository.UpdateProduct(name, description, price, productId);
+
+        return RedirectToAction("UpdateProductForm");
+    }
 }

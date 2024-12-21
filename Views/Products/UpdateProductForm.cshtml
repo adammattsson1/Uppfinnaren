@@ -1,0 +1,37 @@
+@model IEnumerable<Category>
+
+<link rel="stylesheet" href="~/css/site.css">
+
+@foreach(Category category in Model)
+{
+    <b>@category.Name:</b>
+
+    @foreach(Product product in ViewBag.products)
+    {
+        if(product.ProductId == category.CategoryId)
+        {
+            <form asp-action="SaveUpdatedProduct" method="post" role="form">
+                <div> 
+                    <b>Namn:</b>
+                    <input type="text" name="name" contenteditable="true" value="@product.Name">
+                </div>
+
+                <div>
+                    <b>Beskrivning:</b>
+                    <input type="text" name="description" contenteditable="true" value="@product.Description">
+                </div>
+
+                <div>
+                    <b>Pris:</b>
+                    <input type="text" name="price" contenteditable="true" value="@product.Price">
+                </div>
+                
+                <input type="hidden" name="productId" value="@product.ProductId">
+                
+                <div class="button-div">
+                    <button type="submit">Spara</button>
+                </div>
+            </form>
+        }
+    }
+}

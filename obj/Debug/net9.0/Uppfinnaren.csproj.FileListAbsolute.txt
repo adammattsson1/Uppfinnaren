@@ -89,7 +89,6 @@ c:\Kod\Uppfinnaren\obj\Debug\net9.0\Uppfinnaren.sourcelink.json
 c:\Kod\Uppfinnaren\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 c:\Kod\Uppfinnaren\obj\Debug\net9.0\scopedcss\bundle\Uppfinnaren.styles.css
 c:\Kod\Uppfinnaren\obj\Debug\net9.0\scopedcss\projectbundle\Uppfinnaren.bundle.scp.css
-c:\Kod\Uppfinnaren\obj\Debug\net9.0\compressed\qskn2xsrpo-3s2meaka4v.gz
 c:\Kod\Uppfinnaren\obj\Debug\net9.0\compressed\vfo1bg836j-61n19gt1b8.gz
 c:\Kod\Uppfinnaren\obj\Debug\net9.0\compressed\ak3alxn4l2-xtxxf3hu2r.gz
 c:\Kod\Uppfinnaren\obj\Debug\net9.0\compressed\lfwyf51bo0-47otxtyo56.gz
@@ -113,3 +112,4 @@ c:\Kod\Uppfinnaren\obj\Debug\net9.0\Uppfinnaren.pdb
 c:\Kod\Uppfinnaren\obj\Debug\net9.0\Uppfinnaren.genruntimeconfig.cache
 c:\Kod\Uppfinnaren\obj\Debug\net9.0\ref\Uppfinnaren.dll
 c:\Kod\Uppfinnaren\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+c:\Kod\Uppfinnaren\obj\Debug\net9.0\compressed\qskn2xsrpo-oq0suwe824.gz
