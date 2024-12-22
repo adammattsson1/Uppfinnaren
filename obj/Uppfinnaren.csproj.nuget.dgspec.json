@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Kod\\Uppfinnaren\\Uppfinnaren.csproj": {}
+    "c:\\Kod\\Uppfinnaren\\Uppfinnaren.csproj": {}
   },
   "projects": {
-    "C:\\Kod\\Uppfinnaren\\Uppfinnaren.csproj": {
+    "c:\\Kod\\Uppfinnaren\\Uppfinnaren.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Kod\\Uppfinnaren\\Uppfinnaren.csproj",
+        "projectUniqueName": "c:\\Kod\\Uppfinnaren\\Uppfinnaren.csproj",
         "projectName": "Uppfinnaren",
-        "projectPath": "C:\\Kod\\Uppfinnaren\\Uppfinnaren.csproj",
+        "projectPath": "c:\\Kod\\Uppfinnaren\\Uppfinnaren.csproj",
         "packagesPath": "C:\\Users\\woode\\.nuget\\packages\\",
-        "outputPath": "C:\\Kod\\Uppfinnaren\\obj\\",
+        "outputPath": "c:\\Kod\\Uppfinnaren\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\woode\\AppData\\Roaming\\NuGet\\NuGet.Config"
