@@ -65,6 +65,8 @@ public class ProductsController : Controller
         System.Console.WriteLine($"{name}, {description}, {price}, {productId}");
     
         _productRepository.UpdateProduct(name, description, price, productId);
+        
+        TempData["SuccessfulUpdateMessage"] = $"Produkten {name} har uppdaterats.";
 
         return RedirectToAction("UpdateProductForm");
     }
